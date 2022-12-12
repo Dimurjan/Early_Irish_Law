@@ -9,19 +9,19 @@
 ### ed. D. A. Binchy  
 ### A translation  
      
-1. **Cid ara·n-eperr Críth Gablach? Ní hansae: arindí crenas in fer túaithe dia dagfholtaib hi túaith co n-árimther ina grád téchtu i·mbí i túaith; nó ara lín di gablaib i·fodlaiter grád túaithe.**  
-     
+1 **Cid ara·n-eperr Críth Gablach? Ní hansae: arindí crenas in fer túaithe dia dagfholtaib hi túaith co n-árimther ina grád téchtu i·mbí i túaith; nó ara lín di gablaib i·fodlaiter grád túaithe.**  
+
 Why is CG so called? Not difficult: because of that which the man of a túath purchases by his good considerations in a túath, so that he would be recognised in his proper grade in which he always is in a túath; or because of the [lit. their] number of the branches into which grades of a túath are divided.  
      
 **cair: cis lir fodlai for suidib? a .vii.**  
+
+Question: how many divisions on these? Seven.  
      
-   Question: how many divisions on these? Seven.  
-     
-2. **Cid asa·fordailtea grád túaithe? A aurlunn grád n-ecalsa; ar nach grád bís i n-eclais, is coir cia beith a aurlann i túaith, dég ḟortaig nó díthig nó ḟíadnaisi nó brithemnachtae ó chách di alailiu.**  
+2 **Cid asa·fordailtea grád túaithe? A aurlunn grád n-ecalsa; ar nach grád bís i n-eclais, is coir cia beith a aurlann i túaith, dég ḟortaig nó díthig nó ḟíadnaisi nó brithemnachtae ó chách di alailiu.**  
      
 On what basis have the grades of a túath been divided? In (lit. from) analogy to the grades of church; for every grade that is in the church, it is fitting that there be its analogy in the túath, because of superior oath or of denial by oath or of testimony or of adjudication by everyone to others.  
      
-3. **Ceist: cateat grád túaithe? Fer midboth, bóaire, aire désa, aire ard, aire túise, aire forgill 7 rí.**  
+3 **Ceist: cateat grád túaithe? Fer midboth, bóaire, aire désa, aire ard, aire túise, aire forgill 7 rí.**  
      
    A question: what are the grades of a túath? Man of the middle huts, bóaire, Lord of vassalry, High-lord, Lord of precedence, Lord of overriding testimony and king.  
      
@@ -31,82 +31,80 @@ On what basis have the grades of a túath been divided? In (lit. from) analogy t
      
 **Cía menbae? Bóaire cona ocht fodlaib, aire désa, aire échta, aire ard, aire túise, aire forgaill, tánaise ríg 7 rí.**  
      
-   What is the minuteness? B. with eight [other] divisions, Lord of vassalry, Lord of slaughter, High-lord, Lord of precedence, Lord of overriding testimony, heir-apparent to a king and king.  
+   What is the minuteness? B. with eight \[other] divisions, Lord of vassalry, Lord of slaughter, High-lord, Lord of precedence, Lord of overriding testimony, heir-apparent to a king and king.  
      
-4. **Cateat fodlai bóairech? Dá fher midboth 7 ócaire 7 aithech ara·threba a deich 7 bóaire febsa 7 mruigfer 7 fer fothlai 7 aire coisring.**  
+4 **Cateat fodlai bóairech? Dá fher midboth 7 ócaire 7 aithech ara·threba a deich 7 bóaire febsa 7 mruigfer 7 fer fothlai 7 aire coisring.**  
      
-   What are the divisions of B.? Two [types of] Man of the middle huts and Young-freeman and Vassal who farms by his tens and Bóaire of excellence and Man of withdrawal and Lord of binding obligation.  
+   What are the divisions of B.? Two \[types of] Man of the middle huts and Young-freeman and Vassal who farms by his tens and Bóaire of excellence and Man of withdrawal and Lord of binding obligation.  
      
-   5. Cate imthach 7 naidm 7 ráth 7 fíadnaise 7 lóg n-enech 7 bíathad 7 othrus 7 snádud 7 taurchrecc 7 bés tige cach áe?   
+5 **Cate imthach 7 naidm 7 ráth 7 fíadnaise 7 lóg n-enech 7 bíathad 7 othrus 7 snádud 7 taurchrecc 7 bés tige cach áe?**   
      
-   What is the [capacity of] compurgatory oath and binding-surety and paying-surety and testimony and honour-price and sustenance and sick-maintenance and protection and fief of base clientship and food-tribute of each one [of these]?  
+   What is the \[capacity of] compurgatory oath and binding-surety and paying-surety and testimony and honour-price and sustenance and sick-maintenance and protection and fief of base clientship and food-tribute of each one \[of these]?  
      
-   Ní hanse: amail arind·chain fénechas: Ara·fesser gráda Féne, fri mes n-airechtae ad·rímter.  
+**Ní hanse: amail arind·chain fénechas: Ara·fesser gráda Féne, fri mes n-airechtae ad·rímter.**  
      
    Not difficult: as Fénechas recites it: ‘so that you should know the grades of Féni, by the judgment of assembled courts they are reckoned.’  
      
-   6. Dá fer midboth, .i. fer midboth imma·thuing smachtu, im·toing ó snáthait co dairt. Is ed lóg a enech dia aír, dia díguin, dia esáin, dia ṡárugud.  
+6 **Dá fer midboth, .i. fer midboth imma·thuing smachtu, im·toing ó snáthait co dairt. Is ed lóg a enech dia aír, dia díguin, dia esáin, dia ṡárugud.**       
+   Two 'Man of Middle Huts', that is, F.M. who swears in compurgation of liabilities, he swears \[for the value] from a needle unto a yearling heifer. It is his honour-price for satire, violation of protection/breaching of household peace, refusal of hospitality and dishonouring against him.  
      
-   Two F.M., that is, F.M. who swears in compurgation of liabilities, he swears [for the value] from a needle unto a female calf in its first year. It is his honour-price for satire, violation of protection/breaching of household peace, refusal of hospitality and dishonouring against him.  
+**Is ed saiges a naidm 7 a ráth 7 a fíadnaise 7 a aitire. A bíathad a óenur, ass 7 grus nó arbor; ní·dlig imb.**  
      
-   Is ed saiges a naidm 7 a ráth 7 a fíadnaise 7 a aitire. A bíathad a óenur, ass 7 grus nó arbor; ní·dlig imb.  
+   It is what enforces (?) his binding-surety and his paying-surety and his testimony and his medial surety. His food-entitlement is for one man, milk and cheese or corn; he is not entitled to butter.  
      
-   It is what enforces (?) his binding-surety and his paying-surety and his testimony and his medial surety. His food-entitlement is for one man, milk and cheese  or corn; he is not entitled to butter.  
-     
-   Snádid a chomgrád tara thúaith fadesin 7 bíatair leis co·ndichet tar crích.  
+**Snádid a chomgrád tara thúaith fadesin 7 bíatair leis co·ndichet tar crích.**  
      
    He protects his equal-grade across his own túath and he is fed by him until he has gone over the border.  
      
-   Cid ara·n-eperr fer midboth dond fiur-so? Arindí do·ndichet a maicci, a dligiud altruma, 7 nád·roig fertaid;  
+**Cid ara·n-eperr fer midboth dond fiur-so? Arindí do·ndichet a maicci, a dligiud altruma, 7 nád·roig fertaid;**  
      
-   Why is the name fer midboth given to this man? For the reason that he has come from boyhood, from the right of fosterage, and that he has not attained manhood. (McLeod 1988)  
+   Why is the name 'Man of Middle Huts' given to this man? For the reason that he has come from boyhood, from the right of fosterage, and that he has not attained manhood. (cf. McLeod 1988)  
      
-   In·forcmaither áes sainrethech dond ḟiur midboth imma·thoing smachtu? Forcmaither áes cetheora mblíadnae ndeec.  
+**In·forcmaither áes sainrethech dond ḟiur midboth imma·thoing smachtu? Forcmaither áes cetheora mblíadnae ndeec.**  
      
-   Is a particular age set for the fer midboth who swears in compurgation of liabilities? Let [the] age of 14 be assigned.  
+   Is a particular age set for the f.m. who swears in compurgation of liabilities? Let \[the] age of 14 be assigned.  
      
-   Is airi ní·comrai insci ná fíadnaise, ar ní hinfíadnaisi acht fri cach súaill re secht mblíadnaib deec, nád·rogab seilb ná comarbus re sin, ma nis·comathar fer Féne lais. Iss é in sin imma·thoing smachtu mruigrechto.  
+**Is airi ní·comrai insci ná fíadnaise, ar ní hinfíadnaisi acht fri cach súaill re secht mblíadnaib deec, nád·rogab seilb ná comarbus re sin, ma nis·comathar fer Féne lais. Iss é in sin imma·thoing smachtu mruigrechto.**  
      
-   It is on account of it that he cannot preserve statement or eyewitness testimony, for he is not capable of giving valid witness except for every insignificant thing before seventeen years old, who has not acquired /cannot acquire landed property or inheritance before that, unless a fer Féne preserves it with him. It is that man who swears in compurgation of liabilities of land law.  
+   It is on account of it that he cannot preserve statement or eyewitness testimony, for he is not capable of giving valid witness except for every insignificant thing before seventeen years old, who has not acquired /cannot acquire landed property or inheritance before that, unless a fully capable member of the society (fer Féne) preserves it with him. It is that man who swears in compurgation of liabilities of land law.  
      
-   7. In fer midboth aile con·oí insci is trebairiu-side. Tecmaltar a insce dó hi teora bríathra co dé treise; cota·oí cen tórmach cen dígbáil; immas·toing i ndeud nach aili arid·fét i llugu.  
+7 **In fer midboth aile con·oí insci is trebairiu-side. Tecmaltar a insce dó hi teora bríathra co dé treise; cota·oí cen tórmach cen dígbáil; immas·toing i ndeud nach aili arid·fét i llugu.**  
      
-   The other fer midboth who preserves statement, he is more substantial. His statement is assembled for him into three words until the third day; he preserves it without addition or diminution; [and] he swears in compurgation to it after every other person who takes precedence over him in oath. (McLeod 1988)  
+   The other f.m. who preserves statement, he is more substantial. His statement is assembled for him into three words until the third day; he preserves it without addition or diminution; \[and] he swears in compurgation to it after every other person who takes precedence over him in oath. (cf. McLeod 1988)  
+**Ocus imm·toing colpdaig nó a lóg. Iss ed saiges a naidm, a ráth, a ḟiadnaise, a aitire. A bíathad a óenur, ass 7 grús nó arbur; ní·dlig imb. Snáidid a chomgrád tara thúaith co·tabarr díabul mbiid dó.**  
      
-   Ocus imm·toing colpdaig nó a lóg. Iss ed saiges a naidm, a ráth, a ḟiadnaise, a aitire. A bíathad a óenur, ass 7 grús nó arbur; ní·dlig imb. Snáidid a chomgrád tara thúaith co·tabarr díabul mbiid dó.  
+   And he swears a yearling heifer or its (equal) value in compurgation. It is what his binding-surety and his paying-surety and his testimony and his in-between surety enforces. His food-entitlement is for one man, milk and cheese or corn; he is not entitled to butter. He protects his equal-grade across his túath and double share of food is given to him.  
      
-   And he swears a one-year-old heifer or its (equal) value in compurgation. It is what his binding-surety and his paying-surety and his testimony and his medial surety enforces.l.. His food-entitlement is for one man, milk and cheese or corn; he is not entitled to butter. He protects his equal-grade across his túath and double share of food is given to him.  
+8 **Int othrus ní·fil indiu isind aimsir-so acht lóg a degḟoloig do chách íarna míad iter fochraicc lego 7 lind 7 bíathad, 7 lóg n-ainme, amairce, esboda, acht bid coitchenn dliges cach ngrád di grádaib túaithe i córus othrusa.**  
      
-   8. Int othrus ní·fil indiu isind aimsir-so acht lóg a degḟoloig do chách íarna míad iter fochraicc lego 7 lind 7 bíathad, 7 lóg n-ainme, amairce, esboda, acht bid coitchenn dliges cach ngrád di grádaib túaithe i córus othrusa.  
+   The \[institution of] sick-maintenance, it is no longer extent today at this time, but \[replaced by] a price of his proper maintenance to each one, according to his status, \[including] the physician’s fee and drink and food, and a payment of lasting blemish, of visible defect, of loss of limb, but it is common that each grade from the grades of túath is entitled to it in stead of the proper arrangement of sick-maintenance \[i.e. dingbáil ‘removal’].  
      
-   The [institution of] sick-maintenance, it is no longer extent today at this time, but [replaced by] a price of his proper maintenance to each one, according to his status, [including] the physician’s fee and drink and food, and a payment of lasting blemish, of visible defect, of loss of limb, but it is common that each grade from the grades of túath is entitled to it in stead of the proper arrangement of sick-maintenance [i.e. dingbáil ‘removal’].  
+**Tongair fri corp 7 anmain, 7 do·tét aitire ar ḟer feras in fuil i córus n-othrusa, i mboin. At·n-aig tar fót cruach i n-ardnemed dia díte, di·eim ar díantolae slúaig; i n-airgell tara ési cen lepaid ara·chuili liaig, i tárgud lego co derosc n-airṡláine ina íarsláini, i slán líno leptha, a snádud co forus túaithe.**  
      
-   Tongair fri corp 7 anmain, 7 do·tét aitire ar ḟer feras in fuil i córus n-othrusa, i mboin. At·n-aig tar fót cruach i n-ardnemed dia díte, di·eim ar díantolae slúaig; i n-airgell tara ési cen lepaid ara·chuili liaig, i tárgud lego co derosc n-airṡláine ina íarsláini, i slán líno leptha, a snádud co forus túaithe.  
+   It is sworn by body and soul, and an in-between surety guarantees on behalf of the man who sheds the blood, for the proper arrangement of sick-maintenance, by means of a cow (value limited to a cow?). \[The culprit] coveys him over the bloody sod into a high sanctuary for his safeguard, which protects from a sudden tide of host; [the in-between surety guarantees] after that by a fore-pledge for not \[bringing him to] a bed that the physician forbids, for providing of physician until the verdict of the fore-health \[i.e. recovery to the previous state] in his subsequent health, for the safety of the ‘company of bed’, their protection \[until they get] to the appointed place \[of maintenance].  
      
-   It is sworn by body and soul, and an aitire comes as surety on behalf of the man who sheds the blood, in the proper arrangement of sick-maintenance, by means of a cow (value limited to a cow?). [The injurer] coveys him over the bloody sod into a high sanctuary for his safeguard, which protects [him] from a sudden tide of host; [the aitire goes surety] after that for a fore-pledge for not [bringing him to] a bed that the physician forbids, for providing of physician until the verdict of the fore-health [i.e. recovery to the previous state] in his subsequent health, for the safety of the ‘company of bed’, their protection [until they get] to the appointed place [of maintenance].  
+**Cateat a ḟolta córai ó chách frisa·cuirther aitire? Frepuith réir lego. Ógḟritecht for rátha mani·éta nech a ḟrepaid ó ḟiur chinad, combi ar écin do·bongar; is co n-ógdíriu 7 eneclainn fo míad ad·gairther cid tre etged rop othar [1].**  
+[1]: MS rotothar.  
+   What are the proper duties [due] from everyone for whom an in-between surety is given? [To accept] the cure to the direction of a physician. Full amount of undertaking [is imposed] on the paying-sureties if anyone does not acquire his cure from the liable person, until it is by force that it is levied; it is with full amount of compensation and honour-price according to the rank that it is enforced, though it be through negligence that he was wounded (?).  
      
-   Cateat a ḟolta córai ó chách frisa·cuirther aitire? Frepuith réir lego. Ógḟritecht for rátha mani·éta nech a ḟrepaid ó ḟiur chinad, combi ar écin do·bongar; is co n-ógdíriu 7 eneclainn fo míad ad·gairther cid tre etged rop othar (MS rotothar).  
-     
-   What are the proper duties [due] from everyone for whom an aitire is given? [To accept] the cure to the direction of a physician. Full amount of undertaking [is imposed] on the ráth-sureties if anyone does not acquire his cure from the liable person, until it is by force that it is levied; it is with full amount of compensation and honour-price according to the rank that it is enforced, though it be through negligence that he was wounded (?).  
-     
-   9. Téit 7 a máthair for folog. Úachtar ar lemlacht dó i treisi, i cóicthi, i nómaid, i ndechmaid, i ndomnuch.  
+9 **Téit 7 a máthair for folog. Úachtar ar lemlacht dó i treisi, i cóicthi, i nómaid, i ndechmaid, i ndomnuch.**  
      
    He goes with his mother on maintenance. Cream besides new milk for him every third day, every fifth day, every ninth day, every tenth day, and every Sunday.  
      
-   In·forcmaither [áes sainrethech dond fiur midboth con·oí insci? Forcmaither áes] ó chetheoraib blíadnaib deec co fichtig co cúairtulchaigi.  
-   Cía beith ara·rogba bóairechas ríasíu ropo chúairtulchach, ní·íca a lugae acht a llugu ḟir midboth. Cía beith cen gabáil n-orbai danó co críni, ní·tét a lugae ó ḟiur midboth beos.  
+**In·forcmaither \[áes sainrethech dond fiur midboth con·oí insci? Forcmaither áes] ó chetheoraib blíadnaib deec co fichtig co cúairtulchaigi.  
+Cía beith ara·rogba bóairechas ríasíu ropo chúairtulchach, ní·íca a lugae acht a llugu ḟir midboth. Cía beith cen gabáil n-orbai danó co críni, ní·tét a lugae ó ḟiur midboth beos.**  
      
-   Is a particular age set for the fer midboth who preserves statement? Let the age from 14 until the 20th year, until circuit-beardness, be assigned. Though he may be one who can acquire the status of a bóaire before he should be encircled by beard, his oath does not pay for [or, exonerate, cf. Ml. 55d11?] [the amount] except for by the oath of a fer midboth. Though he may be without taking inheritance until old age, however, his oath still does not go beyond [the level of] fer midboth.  
+Is a particular age set for the f.m. who preserves statement? Let the age from 14 until the 20th year, until circuit-beardness, be assigned. Though he may be one who can acquire the status of a bóaire before he should be encircled by beard, his oath does not pay for (or 'exonerate'?)[2] \[the amount] except for by the oath of a fer midboth. Though he may be without taking inheritance until old age, however, his oath still does not go beyond [the level of] fer midboth.  
      
-   Ml. 55d11:  
+[2]: cf Ml. 55d11:  
    ícaid som didiu anisin anasmbeir iudicia domini· abisus multa  
    He solves that then when he says iudicia Domini abissus multa  
      
-   Biith a thaurchrecc cóic sétaib. Molt cona ḟosair bés a thige, is é bés óenchineda in sin, fer nád·threba seilb ná ferann dó fadésin. Fosair in muilt: dí bairgin deec, imb n-eine óil, imglaice chainne co cennaib, ian óil ais trib asaib, óchtar 7 lemlacht 7 draumce nó bláthach.  
+**Biith a thaurchrecc cóic sétaib. Molt cona ḟosair bés a thige, is é bés óenchineda in sin, fer nád·threba seilb ná ferann dó fadésin. Fosair in muilt: dí bairgin deec, imb n-eine óil, imglaice chainne co cennaib, ian óil ais trib asaib, óchtar 7 lemlacht 7 draumce nó bláthach.**  
      
-   His ‘fore-purchase’ is five sets. A wether with its accessories is his food render, it is that which is the render of a single offspring, a man who does not farm property or land for himself (McLeod 1986, 67). Accessory food-rent of the wether: twelve loaves, butter of a vessel of a ‘drink’, a handful of wild garlic with bulbs, a vessel of a ‘drink’ of milk with three kinds of milk, cream and new milk and whey drink (? EIF 327-8) or buttermilk.  
+   His ‘fore-purchase’ is five séts. A wether with its accessories is his food render, it is that which is the render of a single offspring, a man who does not farm property or land for himself (McLeod 1986, 67). Accessory food-rent of the wether: twelve loaves, butter of a vessel of a ‘drink’, a handful of wild garlic with bulbs, a vessel of a ‘drink’ of milk with three kinds of milk, cream and new milk and whey drink (? EIF 327-8) or buttermilk.  
      
-   Ní·dligther fothud a thige do neoch céin mbes maice, co·mbí túalaing saintrebtha 7 gabálae selb, do ḟiur midboth céin mbes n-óenchiniud acht ma fris·nasar a ḟlaith nád·fuilne [nas. or len.?] a bés tar molt cona ḟosair.   
+**Ní·dligther fothud a thige do neoch céin mbes maice, co·mbí túalaing saintrebtha 7 gabálae selb, do ḟiur midboth céin mbes n-óenchiniud acht ma fris·nasar a ḟlaith nád·fuilne [nas. or len.?] a bés tar molt cona ḟosair.**   
      
    No hospitality of his house is due by anyone as long as he be in his childhood, until he is capable of independent husbandry and of taking landed properties; [neither is it due] by a fer midboth as long as he be a solitary offspring, unless his lord be counter-bound not to increase his tribute beyond a wether with its accessory dues.  
      
