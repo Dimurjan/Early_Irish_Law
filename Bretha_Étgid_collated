@@ -44,9 +44,13 @@ D: A meic ara feiser urrad for tir ndeorad
 
 A: A meic ara-feser cin rig for thuaith  
 B: A maic ara feser cin rig for tuait 7 cin tuaithi for rig  
+D: A meic ara feiser cin rig for tuaith  
 
 A: A mic ara-feiser fer rechta i necosc dilsi  
 B: A maic ara feiser fer rechta i necosc dilse 7 dilsech i necosc fir rechtce  
+D: A Meic ara feiser fer rechta i necosc dilsi  
+
+D: no dias i naentallaind for tir naenfir  
 
 A: A mic ara-feiser aenfer i mam ndeise  
 B: A mic ara feiser aenfer i mam ndeise 7 dias i mam in aenfir  
@@ -55,12 +59,15 @@ C: A meic ara feiser aenfer a mam ndeise
 A: A mic ara-feser fiachu imasria  
 C: A meic ara feisser fiachu madsria  
 946.1: [...] eser fiachu ma sria 7rla  
+D: A meic ara feiser fiachu ma sria  
 
 A: A mic ara-feiser fer isren ni na torgaib  
 C: A meic ara feisser fer asren ni na torgaib  
+D: A meic ara feiser fer asren  
 
 A: A mic ara-feser blai dilsi  
 C: A meic ara feisiur blai dilsi  
+D: A meic ara feiser blai dilsi  
 
 A: Bla moga mugsaine  
 C: Blai mogha moghsaine  
