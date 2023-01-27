@@ -1,6 +1,6 @@
 A: Cis lir fodla eitgidh? Ni handsu son. A cethair: comraite acas anfot, torba acas esba.
 B: Cis lir fodla eitged? .Ni. a .iiii.: comraite, anfot, torba, esba.  
-C: [C]is lir fogla eitgidh? Ni handso son. A cethair: comraite
+C: \[C]is lir fogla eitgidh? Ni handso son. A cethair: comraite
    
 A: Cia nanmand na cina sin? Ni handsa son. Faill, eislis, elgnas, anfis, ecell, imraichne, tucait, turthuit, tidradhus, fochund, agh, acais.   
 B: Cia nanmand na cinad-sin .Ni. 
@@ -55,21 +55,26 @@ E: A mic ara feser fer rechta in necusc dilsigh
 D: no dias i naentallaind for tir naenfir  
 E: Lethfiach don taisech lano  
 
+G: A maic ara feiser cain no cairde. Cona foglaib. 7 a mbaeglaib 7 a neitgedaib. Arna erenar fiach feirge i nanfot. Na anfot i feirg. Na fiach fis i nanfis na anfis i fis. Na comraite i netged. Na eitged i comraite. Na mar i mbec, na bec i mmar.  
+
 A: A mic ara-feiser aenfer i mam ndeise  
 B: A mic ara feiser aenfer i mam ndeise 7 dias i mam in aenfir  
 C: A meic ara feiser aenfer a mam ndeise  
 E: A meic ara feisir oenfear a mam ndeis  
+G: A meic ara feiser aenfer i mam ndeise. 7 dias i mam aenfir. Fear congaib deide. no treide .i. da grad tar eise in aengraid bes airdiu. No dias i naentallaind for tir noenfir.  
 
 A: A mic ara-feser fiachu imasria  
 C: A meic ara feisser fiachu madsria  
 946.1: [...] eser fiachu ma sria 7rla  
 D: A meic ara feiser fiachu ma sria  
 E: A meic ara feisir fiachu ma sria 7rl-  
+G: A meic ara feiser fiacha ma sria. Aenarra i lethcumail. Deide i cumail. treide i cumala .i. trian bo trian each. Trian airgit. Trian do damaib i triun bo. Tria do boininn i triun each. Trian do anfolam i triun airgit .i. uma indiu.   
 
 A: A mic ara-feiser fer isren ni na torgaib  
 C: A meic ara feisser fer asren ni na torgaib  
 D: A meic ara feiser fer asren  
 E: A mic ara feser fer asran ni na torg  
+G: A meic ara feiser fear asren ni na torgaib. 7 fear doragaib ni nad eren .i. fer turgaire druith is é asren a cinaid. Nochislan in fear fofich in druth. Ar is é ag in sin asrenar na comraiter la fear asidrean.  
 
 A: A mic ara-feser blai dilsi  
 C: A meic ara feisiur blai dilsi  
@@ -95,29 +100,35 @@ D: Bla con congal
 A: Blai druith dibrucud  
 C: Blai druth dibrugudh  
 D: Bla druth diburcud \[this is placed after Bla miand midclais in D]  
+F: Bla druth diubrugud  
 
 A: Blai mer cuirmtech acht ni bidbaid nama  
 C: Blai mer cuirmthech acht ni bidbu namá  
 D: Bla mer cuirmtech \[written as a gloss] .i. acht ni bidba nama  
+F: Bla mer cuirmthech. acht ni bidbu nama  
 
 A: Blai mein midclais  
 B: .B. mein midclais  
 C: Blai mein midhchlais no bladh mian midchlais  
-D: Bla miand midclais no bla mein midclais
+D: Bla miand midclais no bla mein midclais  
+F: Bla meinn midchlais  
 
 B: Finechlogh baeth gaeth
 
 A: Blai ethur imurchur a port a port.  
 C: Blai eathar imurchur i port a port  
 D: Bla ethair imarchur acht nip forlucht no anfuth  
+F: Bla ethar imarchur a port a port acht nib forlucht no anfad  
 
 A: Blai líagh linad  
 C: Blai liag linadh  
 D: Bla liach linad  
+F: Bla liach linad  
 
 A: Blai fer catha on trath coraile  
 C: Blai fer catha on trath coraile  
-D: Bla fer catha on trath co raile
+D: Bla fer catha on trath co raile  
+F: Bla fear catha on trath co raile no co cend .uii.maine  
 
 A: Blai sustu áith  
 D: Bla susta aith  
@@ -297,7 +308,7 @@ A: Dire ceithirliubair soiscela ocht mbliadnai .xx.it
 E: Dire ceithirlibuir soiscela ocht mbliadna .xx.et
 
 A: Faendlid cach fiad dosli faille  
-E: [F]aendlid cach fiad dosli faille  
+E: \[F]aendlid cach fiad dosli faille  
 
 A: Gabla flaith forbach  
 E: Gabla flatha forbach  
