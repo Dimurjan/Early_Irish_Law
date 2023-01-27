@@ -45,25 +45,31 @@ D: A meic ara feiser urrad for tir ndeorad
 A: A meic ara-feser cin rig for thuaith  
 B: A maic ara feser cin rig for tuait 7 cin tuaithi for rig  
 D: A meic ara feiser cin rig for tuaith  
+E: A meic ara feiser cin rig for tuaith  
 
 A: A mic ara-feiser fer rechta i necosc dilsi  
 B: A maic ara feiser fer rechta i necosc dilse 7 dilsech i necosc fir rechtce  
 D: A Meic ara feiser fer rechta i necosc dilsi  
+E: A mic ara feser fer rechta in necusc dilsigh  
 
 D: no dias i naentallaind for tir naenfir  
+E: Lethfiach don taisech lano  
 
 A: A mic ara-feiser aenfer i mam ndeise  
 B: A mic ara feiser aenfer i mam ndeise 7 dias i mam in aenfir  
 C: A meic ara feiser aenfer a mam ndeise  
+E: A meic ara feisir oenfear a mam ndeis  
 
 A: A mic ara-feser fiachu imasria  
 C: A meic ara feisser fiachu madsria  
 946.1: [...] eser fiachu ma sria 7rla  
 D: A meic ara feiser fiachu ma sria  
+E: A meic ara feisir fiachu ma sria 7rl-  
 
 A: A mic ara-feiser fer isren ni na torgaib  
 C: A meic ara feisser fer asren ni na torgaib  
 D: A meic ara feiser fer asren  
+E: A mic ara feser fer asran ni na torg  
 
 A: A mic ara-feser blai dilsi  
 C: A meic ara feisiur blai dilsi  
@@ -267,32 +273,48 @@ D: Trian do airget in cach eiric
 D: Leitheiric caich a cois a laim a suil a tengaig  
 
 D: Ferdair a nothrusa uili acht a ferga  
+E: Feardar a nothrus uile  
 
 D: Mad beoathcuma cethra  
+E: Ma beoathcuma cethra  
 
 A: Cin beill do ithe meirle 7 munad 7 maidem  
+E: Cin beil do ithe meirle 7 munadh 7 maidhem  
 
 A: Cid dogni déorad do urrad 7 urrad do deórad  
 D: Cid dogni deorad do urrad agus munad no dingbail for curu bel  
+E: Cid dogni deorad do urrad 7 urrad do deorad
 
 D: Ditiu fir muindtiri for drochbescna  
 
 A: Is urrad immurgu in déorad crenus selb, no fer tuinide tarachtain for aentir co triar  
+E: Is urrad immurgu in deorad crenus selb, no fer tuinidhe tarrachtain for aontir co triar  
 
 A: Seachtmad marbtha caich ina toichne no a mbrised a turrthuigthe, no i naelud iar luighe fo aeth o cath anma  
+E: Seachtmad martha caich ina .t. no a mbrised a turthuigthe no ina elud iar luighe fo aoth o cath anma  
 
 A: Dire ceithirliubair soiscela ocht mbliadnai .xx.it  
+E: Dire ceithirlibuir soiscela ocht mbliadna .xx.et
 
 A: Faendlid cach fiad dosli faille  
+E: [F]aendlid cach fiad dosli faille  
 
 A: Gabla flaith forbach  
+E: Gabla flatha forbach  
 
 A: Beirid mathair raith maicne  
 D: Berid mathair raith maicne  
+E: Beirid mathair rath maicne  
 
 D: Gaibid diri tuilche  
+E: Gaibid dire tuilche nach do dia es a torbha  
+
+E: Fer frisoirge rechta rig lebaid lethan  
+
+E: Diles cuit fir foritcongair indlus cach cor olchena  
 
 D: Diles i coinslechtaib  
+E: Diles i conslechtaib cach caom gan fiarfaige cach econd cen imcoimet  
 
 D: Tri coinfogla fomnaither and
 
@@ -307,62 +329,113 @@ D: cin bech cin ceathra
 D: Diles i nosbrethaib  
 
 D: Andsum dire treibdire  
+E: Ansom dire treibdire  
+
+E: Ochtmud a mbeoguin  
 
 D: Nibi caithech nach cuitech  
+E: Nibi caitheach nach cuidech  
 
 A: Oghdilius cach nanrachtaig  
 D: Ogdiles cach nanrechtaid  
+E: Ogdilis cach nanrachtaig  
 
 A: Indeircech cach morchuitech acranntach cach cutruma  
-D: Indeircech cach morcuitech
+D: Indeircech cach morcuitech  
+E: Indeircech gac morcuit[ech] acranntac gac cutruma  
+
 
 A: Segar slicht othrusa urgnaither munub a nindtiuch techta doruibditer corp  
-D: Segar slicht othrusa urgnaiter
+D: Segar slicht othrusa urgnaiter  
+E: Segar slicht othrusa urgnaither munub a ni[n]dtech techta doruibdither corp  
+
+
+A: Slan frithgnuma o fuachar fuil  
+E: Slan frithgnama o fuachar fuil  
+
+A: Fiach na díre dlig  
+E: Fiach na dire dlig  
+
+A: Dingaib gin faill cin faircsin co fer ina mamo modh, mana dingba asren fiacho o fuachar fuil  
+E: \[Ding]aib gin faill cin faircsin. co fer ina mama modh mana dingmha isren fiacha o .f.f.
+
+A: Da .uii. cumala crolighe cach rig 7 cach espuig  
+E: Da .uii. cumala crolighi cach righ \[7 gach espuig...etc. in small letters]  
+
+E: Asboind mo dingbail slondar na dhingabar. Dorenar trian dire  
+
+
+\[the following are placed earlier in D and later in E]
 
 D: Cach fiachach dogo  
 
 D: Diri lethdire do fine no folach o fine fofich fris cid urcaillte  
+E: Dire lethdire do fine  
 
-D: Ni gona cimid manub lat  
+D: Ni gona cimid manub lat \[cf. 1133.30-31]
+E: Ni gona cimid munab lat  
 
 D: No fuatach fo tairisin  
+E: Fuadach fo tairisin  
 
 D: Atait a tri dosliat tairgilli  
+E: Atait a tri dosliat tairgille i faill oin co haighe  
+
+E: Meath sloighidh trath  
 
 D: Airlecud co aimsir  
 
 D: Co segat saeglann sloiged  
 
 D: Faill dō cen imcomet cimeda  
+E: Faill dō cin imcoimed cimeda  
 
 D: Faill dō do connaib cen imcomet cach ecuind  
-
-D: Faill dō do caemtechtaib cen imcomet aesa sruith  
+E: Faill do connuib cen imcomet cach .e.  
 
 D: Faill dō do feichemnaib lecud a naraig do derug dara cenn  
+E: Faill dō d'fechemnuibh lecud a naraig do derug tara cend  
+
+D: Faill dō do caemtechtaib cen imcomet aesa sruith  
+E: Faill dā do caemtechtaib cen imcomet aesa sruithe  
+
+E: Cen acobair co hellem etar gell 7 aitire 7 raith  
+
+E: Eirithe cach forrecht fiachach cach follugud  
+
+E: Cetharda lā for sellaigib slicht  
 
 D: Muilliud con  
+E: Muilliud con  
 
 D: Cosc da fiad  
+E: A coscc do fiad  
 
 D: Cuirm lium  
+E: Cuirm lium lemnacht la cat  
 
 D: Grainde luid lat a lughaidh  
 
 D: Athlighib 
+E: Athligib  
 
 D: Bid bliadain  
+E: Bid blidain co fa tri... \[a verse]
 
 D: Cia roich eneclann  
 
 D: Fuatach dichmairc
+E: fuatach dichmairce  
 
-A: Slan frithgnuma o fuachar fuil  
+E: Cen mir mein  
 
-A: Fiach na díre dlig  
+E: Talmaidech cin imchoimet  
 
-A: Dingaib gin faill cin faircsin co fer ina mamo modh, mana dingba asren fiacho o fuachar fuil  
+E: Tigradhus dō it ile a foghla-side  
 
-A: Da .uii. cumala crolighe cach rig 7 cach espuig
+E: Econn anfot animain  
 
-       
+E: Tighradhus cen ecell  
+
+E: Tigradhus cach sellach araice midenum  
+
