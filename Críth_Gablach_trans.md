@@ -9,7 +9,7 @@
 ### ed. D. A. Binchy  
 ### A translation  
      
-1 **Cid ara·n-eperr Críth Gablach? Ní hansae: arindí crenas in fer túaithe dia dagfholtaib hi túaith co n-árimther ina grád téchtu i·mbí i túaith; nó ara lín di gablaib i·fodlaiter grád túaithe.**  
+1 **Cid ara·n-eperr Críth Gablach? Ní hansae: arindí crenas in fer túaithe dia dagfholtaib hi túaith co n-árimther ina grád téchtu i·mbí i túaith; nó ara lín di gablaib i·fodlaiter grád túaithe.**
 
 Why is CG so called? Not difficult: because of that which the man of a túath purchases by his good considerations in a túath, so that he would be recognised in his proper grade in which he always is in a túath; or because of the [lit. their] number of the branches into which grades of a túath are divided.  
      
@@ -106,7 +106,7 @@ Is a particular age set for the f.m. who preserves statement? Let the age from 1
      
 **Ní·dligther fothud a thige do neoch céin mbes maice, co·mbí túalaing saintrebtha 7 gabálae selb, do ḟiur midboth céin mbes n-óenchiniud acht ma fris·nasar a ḟlaith nád·fuilne [nas. or len.?] a bés tar molt cona ḟosair.**   
      
-   No hospitality of his house is due by anyone as long as he be in his childhood, until he is capable of independent husbandry and of taking landed properties; [neither is it due] by a fer midboth as long as he be a solitary offspring, unless his lord be counter-bound not to increase his tribute beyond a wether with its accessory dues.  
+   No hospitality of his house is due by anyone as long as he be in his childhood, until he is capable of independent husbandry and of taking landed properties; \[neither is it due] by a fer midboth as long as he be a solitary offspring, unless his lord be counter-bound not to increase his tribute beyond a wether with its accessory dues.  
      
    Ma for·bera folud a thige co·mbí folud mbóairech nó ní bes ardu, for·beir córus a thairchrecce dó-som a suidiu co·mbí bés a thige and íarna míad, mani·congla nach ḟlaith aile fris. Lethdrécht húad i ngort día treise íar fócru; trían a duinn 7 a mescae 7 a lescae 7 a ércae do ḟlaith.  
      
