@@ -1,9 +1,9 @@
 # Uraicecht Becc: based on Book of Ballymote (23 P 12), CIH 1590 ff. with readings from BB and YBL. normalised.  
 
-### There is a translation of the text by Eoin Mac Neill in:  
-### *MacNeill, Eoin. “Ancient Irish Law: The Law of Status or Franchise.” Proceedings of the Royal Irish Academy. Section C: Archaeology, Celtic Studies, History, Linguistics, Literature 36 (1924 1921): 265–316.*  
-### However, that translation is based on the **Ancient Laws of Ireland** and has been seriously outdated given the progress made in the study of early Irish law in the past century.  
-### Therefore, a new translation is provided here on resulted from my own study and teaching.  
+There is a translation of the text by Eoin Mac Neill in:  
+*MacNeill, Eoin. “Ancient Irish Law: The Law of Status or Franchise.” Proceedings of the Royal Irish Academy. Section C: Archaeology, Celtic Studies, History, Linguistics, Literature 36 (1924 1921): 265–316.*  
+However, that translation is based on the **Ancient Laws of Ireland** and has been seriously outdated given the progress made in the study of early Irish law in the past century.  
+Therefore, a new translation is provided here on resulted from my own study and teaching.  
 ### This is work in progress and is subject to constant revision.  
 
 
