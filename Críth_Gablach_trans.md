@@ -1,13 +1,13 @@
 # This is a new translation of the edited text of **Críth Gablach** by D. A. Binchy (Dublin, 1946).  
-### There is a translation of the text by Eoin Mac Neill in:  
-### *MacNeill, Eoin. “Ancient Irish Law: The Law of Status or Franchise.” Proceedings of the Royal Irish Academy. Section C: Archaeology, Celtic Studies, History, Linguistics, Literature 36 (1924 1921): 265–316.*  
-### However, that translation is based on the **Ancient Laws of Ireland** and has been seriously outdated given the progress made in the study of early Irish law in the past century.  
-### Therefore, a new translation is provided here on resulted from my own study and teaching. Most of the translation is based on the glossary given by Binchy at the back of his edition, but I have differed in many places as well. Generally speaking, my translation here is more literal so as to keep as closely as possible to the style and sometimes the syntax of the Old Irish sentences. I have also updated the rendering of several legal and farming terms. I have consulted eDIL, *A Guide to Early Irish Law*, *Early Irish Farming* and other recent publications in the process. 
+There is a translation of the text by Eoin Mac Neill in:  
+*MacNeill, Eoin. “Ancient Irish Law: The Law of Status or Franchise.” Proceedings of the Royal Irish Academy. Section C: Archaeology, Celtic Studies, History, Linguistics, Literature 36 (1924 1921): 265–316.*  
+However, that translation is based on the **Ancient Laws of Ireland** and has been seriously outdated given the progress made in the study of early Irish law in the past century.  
+Therefore, a new translation is provided here on resulted from my own study and teaching. Most of the translation is based on the glossary given by Binchy at the back of his edition, but I have differed in many places as well. Generally speaking, my translation here is more literal so as to keep as closely as possible to the style and sometimes the syntax of the Old Irish sentences. I have also updated the rendering of several legal and farming terms. I have consulted eDIL, *A Guide to Early Irish Law*, *Early Irish Farming* and other recent publications in the process. 
 ### This is work in progress and is subject to constant revision.  
 
 ## Críth Gablach  
-### ed. D. A. Binchy  
-### A translation  
+** ed. D. A. Binchy**  
+** A translation**  
      
 ### 1 Cid ara·n-eperr Críth Gablach? Ní hansae: arindí crenas in fer túaithe dia dagfholtaib hi túaith co n-árimther ina grád téchtu i·mbí i túaith; nó ara lín di gablaib i·fodlaiter grád túaithe.  
 
