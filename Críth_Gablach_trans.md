@@ -6,8 +6,8 @@ Therefore, a new translation is provided here on resulted from my own study and 
 ### This is work in progress and is subject to constant revision.  
 
 ## Críth Gablach  
-** ed. D. A. Binchy**  
-** A translation**  
+**ed. D. A. Binchy**  
+**A translation**  
      
 ### 1 Cid ara·n-eperr Críth Gablach? Ní hansae: arindí crenas in fer túaithe dia dagfholtaib hi túaith co n-árimther ina grád téchtu i·mbí i túaith; nó ara lín di gablaib i·fodlaiter grád túaithe.  
 
