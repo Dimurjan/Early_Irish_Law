@@ -85,11 +85,12 @@ On what basis have the grades of a túath been divided? In (lit. from) analogy t
      
 **Cateat a ḟolta córai ó chách frisa·cuirther aitire? Frepuith réir lego. Ógḟritecht for rátha mani·éta nech a ḟrepaid ó ḟiur chinad, combi ar écin do·bongar; is co n-ógdíriu 7 eneclainn fo míad ad·gairther cid tre etged rop othar [^1].**  
 [^1]: MS rotothar.  
-   What are the proper duties [due] from everyone for whom an in-between surety is given? [To accept] the cure to the direction of a physician. Full amount of undertaking [is imposed] on the paying-sureties if anyone does not acquire his cure from the liable person, until it is by force that it is levied; it is with full amount of compensation and honour-price according to the rank that it is enforced, though it be through negligence that he was wounded (?).  
+  
+What are the proper duties [due] from everyone for whom an in-between surety is given? [To accept] the cure to the direction of a physician. Full amount of undertaking [is imposed] on the paying-sureties if anyone does not acquire his cure from the liable person, until it is by force that it is levied; it is with full amount of compensation and honour-price according to the rank that it is enforced, though it be through negligence that he was wounded (?).  
      
 ### 9 **Téit 7 a máthair for folog. Úachtar ar lemlacht dó i treisi, i cóicthi, i nómaid, i ndechmaid, i ndomnuch.**  
      
-   He goes with his mother on maintenance. Cream besides new milk for him every third day, every fifth day, every ninth day, every tenth day, and every Sunday.  
+He goes with his mother on maintenance. Cream besides new milk for him every third day, every fifth day, every ninth day, every tenth day, and every Sunday.  
      
 **In·forcmaither \[áes sainrethech dond fiur midboth con·oí insci? Forcmaither áes] ó chetheoraib blíadnaib deec co fichtig co cúairtulchaigi.  
 Cía beith ara·rogba bóairechas ríasíu ropo chúairtulchach, ní·íca a lugae acht a llugu ḟir midboth. Cía beith cen gabáil n-orbai danó co críni, ní·tét a lugae ó ḟiur midboth beos.**  
