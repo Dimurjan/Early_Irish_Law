@@ -1,7 +1,7 @@
 # Uraicecht Becc: based on Book of Ballymote (23 P 12), CIH 1590 ff. with readings from BB and YBL. normalised.  
 
 ### 1. Cid i n-arragar breithemnus bērla fēni .nī. i fīr 7 dliged 7 aicned.  
-What is it in which the judgment of the laymen’s lawsuit was bound ? Not difficult, in ‘truth’ and ‘entitlement’ and ‘natural law’.  
+What is it in which the judgment of the laymen’s lawsuit was bound [^1]? Not difficult, in ‘truth’ and ‘entitlement’ and ‘natural law’.  
   
 ### 2. Con-suiter fīr for roscadaib 7 fāsaigib 7 tēstemnaib fīraib  
 ‘Truth’ is based upon roscada and aphorisms and true sacred texts.  
@@ -183,3 +183,29 @@ A second scholar of Scripture and an anruth poet and a master of the learning of
 ### 61. Ollam foccail .i. do gobainn no cerdai no umaidi sōerthair la tūaith, comsoīri [do] cach aī fri airig ndēsa. Finit Amen.  
 A master of acknowledgement i.e. for a blacksmith or a whitesmith or a braisier who is bestowed free-status by the kingdom, same free status for each of them as a lord of clients. Finit Amen.  
   
+ [^1] on this reading see ZCP 49-50.311.  
+ [^2] Compare BNT: ecnai, eclais, flaith, fili, which might be the original scheme, see Breatnach Ériu 40.25-6, and the heptads about these categories.  [^3] Kelly 1997, 251.  
+ [^4] see Bretha Crolige §45.  
+ [^5] Omission of 26-29 in BB. Here the text is based on G 3.  
+ [^6] Not do-armaig?  
+ [^7] 34-37 see McCone in Eriu 35.3.
+ [^8] 35-36 not in G 3  
+ [^9] emended from cach?  
+ [^10] See Heptad X.  
+ [^11] see McCone Eriu 35.3, n 9, and CormY 361  
+ [^12] MSS ocaire, which seems to be mistaken?  
+ [^13] con-oi in the sense of ‘protect, preserve (memory)’.  
+ [^14] G 3: co leith fri haes ndana...  
+ [^15] BB hoic, G 3 haicde
+ [^16] inserted from G 3.  
+ [^17] BB comdiri, G 3 comsuire.  
+ [^18] BB comdiri, G 3 comsaire. considering that in the following their equal status includes that of dire but also of other criteria, it should read as in G 3.  
+ [^19] BB lestra; G3 crandleasdra probably fashioned from the glosses.  
+ [^20] BB cach, G 3 cach hai.  
+ [^21] missed from BB, inserted from G 3.  
+ [^22] missed from BB, inserted from G 3.  
+ [^23] BB, YBL duna se tichtib, G 3: do se fichid  
+ [^24] BB morcanach, G 3 morchathrach, YBL morcatrach,  
+ [^25] Binchy 1958, 49 suggests ‘supreme’ for ollam, but this does not suit the last item in this section.  
+ [^26] Is this an intrusion from other text? Or wrongly arranged here?  
+ [^27] See gloss: .i. int sai brethemun.  
