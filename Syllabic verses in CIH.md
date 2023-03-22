@@ -1,5 +1,5 @@
 # This is a list of all the syllabic verses collected from CIH (Binchy 1978)
-Please refer to the Readme file for how to refer properly to this file.
+Please refer to the [README](https://github.com/Dimurjan/Early_Irish_Law/blob/main/README.md) file for how to refer properly to this file.
 
 ## **109.19-22 = 216.13-15** (glosses to Tosach Bésgnai)  
 Deismirecht air:    
