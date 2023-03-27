@@ -1,12 +1,19 @@
-A: Cis lir fodla eitgidh? Ni handsu son. A cethair: comraite acas anfot, torba acas esba.
+A: Cis lir fodla eitgidh? Ni handsu son. A cethair: comraite acas anfot, torba acas esba.  
 B: Cis lir fodla eitged? .Ni. a .iiii.: comraite, anfot, torba, esba.  
 C: \[C]is lir fogla eitgidh? Ni handso son. A cethair: comraite
    
+**How many are the divisions of negligence? Not difficult, four: intention, inadvertence, useful work and wantonness.**  
+   
 A: Cia nanmand na cina sin? Ni handsa son. Faill, eislis, elgnas, anfis, ecell, imraichne, tucait, turthuit, tidradhus, fochund, agh, acais.   
 B: Cia nanmand na cinad-sin .Ni. 
-
+  
+**What are the names of those offences? Not difficult. Negligence, disregard, malice, unawareness, carelessness, mistake, reason (?), accidental blow, tidradus (?), cause (?), maltreatment (?), occasional injury (?)**  
+cf.  O'Mulc. 456, O'Dav 577.  
+  
 A: Cotaimthiaghait a cethair gach n-ae, cona coimted coir coitechta la gach ndeithbir, cona deochair 7 a indeochair la cach n-indeithbir.  
-
+  
+**The four increase (?) each of them, so that**  
+  
 A: Teora fodhla foghla: Elghuin, comraiti gne, toisced. Elguin for feirg, anfot for espada, toiscide for torba, no frithaighi thorbha.  
 B: Teora fodlla fogla: Elguin, anfot. Anfot for easba  
    
