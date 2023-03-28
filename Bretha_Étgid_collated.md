@@ -7,33 +7,47 @@ C: \[C]is lir fogla eitgidh? Ni handso son. A cethair: comraite
 A: Cia nanmand na cina sin? Ni handsa son. Faill, eislis, elgnas, anfis, ecell, imraichne, tucait, turthuit, tidradhus, fochund, agh, acais.   
 B: Cia nanmand na cinad-sin .Ni. 
   
-**What are the names of those offences? Not difficult. Negligence, disregard, malice, unawareness, carelessness, mistake, reason (?), accidental blow, tidradus (?), cause (?), maltreatment (?), occasional injury (?)**  
-cf.  O'Mulc. 456, O'Dav 577.  
+**What are the names of those offences? Not difficult. Negligence, disregard, malice, unawareness, carelessness, mistake, reason (?), accidental blow, tidradus (?), cause (?), maltreatment (?), occasional injury (?)** [^1]  
+[^1]: cf.  O'Mulc. 456, O'Dav 577.  
   
 A: Cotaimthiaghait a cethair gach n-ae, cona coimted coir coitechta la gach ndeithbir, cona deochair 7 a indeochair la cach n-indeithbir.  
   
-**The four increase (?) each of them, so that**  
+**The four increase (?) [^2] each of them, with its legal rightful security (?) accompanying each appropriateness, with its dissimilarity and similarity (?) accompanying each inappropriateness**  
+[^2]: I take it as con-timthét.
   
 A: Teora fodhla foghla: Elghuin, comraiti gne, toisced. Elguin for feirg, anfot for espada, toiscide for torba, no frithaighi thorbha.  
 B: Teora fodlla fogla: Elguin, anfot. Anfot for easba  
    
+**Three divisions of injury: deliberate wounding, intention of manner (?), neccesity (?). deliberate wounding out of wrath, inadvertence because of wanton deeds, necessity because of useful works, or counter-maltreatment (?) of useful works.**  
+  
 A: Cid dechraigthe bretha et mesa.      
 B: Cid deachraigther bretha et mesa? .i. faill 7 elgnas a fogal. 7 Fiachu 7 indoba  
+  
+**What is it that separates judgements and measurements? that is, negligence and malice in (?) an injury. and debts and indoba (?)**
  
 D: Caite bla ercailiud cach slan cach ruidleas  
-
+  
+**What are the immunities? ...decision of each restitution and each entitlement?**
+  
 A: Diablad fiachu ferg.  
 B: Diablad fiach fearg.  
 D: Doablad fiach ferg  
    
+**Wrath \[makes] doubling of liability.**  
+  
 A: A meic arfeser cend rig for aithiuch.  
 B: A meic ara fesar cenn rig for aitheach 7 cenn aithig for righ  
 D: A meic ara feiser cenn rig for aithech  
-
+  
+**O son you should know the head of a king upon a churl \[B: and the head of a churl on a king]  
+  
 D: Lethfiach la dindis a sodain  
-
+**Half liability when he makes a denial by oath.**  
+  
 A: A meic ara-feser follus iar ndond.  
 B: A maic ara feiser follus iar ndond 7 dond iar follus  
+  
+**O son you should know that clarity after obscurity (?) \[B: and obscurity after clarity]**  
 
 A: A mic ara-feiser feineacht slana  
 
@@ -43,7 +57,10 @@ A: A meic ara-feser cin sluaig for aenfer, agus cin aenfir for sluag.
 B: a maic ara feser cin sluaig for aenfer  
 D: Cin aenfir for sluagh  
 
+**O son you should know the crime of a crowd on one man \[A: and the crime of one man on a crowd]**  
+
 D: Na findter cia dib dogni  
+**let it not be found out which one of them who does it.**  
 
 A: A meic ara-feser urrad for tir ndeorad 7 deorad for tir urrad.  
 B: A maic ara seiser urrad for tir ndeorad 7 deorad for tir nurradh  
