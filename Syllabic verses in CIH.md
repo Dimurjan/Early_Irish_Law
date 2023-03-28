@@ -1686,4 +1686,10 @@ A lan do luibib gall
 Cetri certa 7 miach   
 Ar chirc clothach bann  
   
+## Companion 385-6 (Bretha Éitgid A1)
+amail adubairt in fili .i. Fer Muman mac Echtain:  
+Bidh cach ca fhaitchus i foit  
+is brecht cia imtiagait óig  
+conidh de ata fot faitech  
+⁊ anfhot anfaitech  
 
