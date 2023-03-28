@@ -41,6 +41,32 @@ brised cridi uair aicle
 > sech taeb temrach im trath teirt
 > truag in gnim dorala de
 > robris craide i nuar naicle
+
+> Companion p. 382 (Bretha Étgid prologue on Aicill)  
+> .i. gol mor emh do-nidh Eithne ingen Con Culainn oc ainiudh Eirc meic Coirbri:  
+> Uair Conall Cernach tuc cenn Erc  
+> sech thaebh Temrach im trach tert  
+> truag in gnim do-rala de  
+> bris craidhe n-uar nAichle  
+
+## Companion p.382 (Bretha Étgid prologue on Aicill) 
+⁊ comad é ceand faelad do-berad glunsnaithi filidechta fai, ⁊ deismeracht air:  
+Leth Breth in Eitgid fath co li  
+Cormac ua Cuind ros-rigne  
+in leth aile iarmotha  
+Cenn Faelad mac Ailella  
+
+Ba persa aireda tra  
+Ceand Faelad mac Ailella  
+iarna scoltad isin cath  
+he do-rigne Duil Roscadach  
+
+## Companion p. 384 (Bretha Étgid)  
+Lucifer .i.   
+Beiti aingill neme isum  
+niba ri nech uasam  
+do-gentur sosad acam  
+i n-airterthuaiscirt nime  
     
 ## **339.17-20** (PHP to SM):    
 deismerecht air-sidhe, ut dx in filedh:    
