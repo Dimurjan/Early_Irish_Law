@@ -626,7 +626,7 @@ feras arán frim da droch
 > inad atend findabrach,   
 > feras amran frim dá droch. 
   
-## 612.29-31 (DDC 1.283) = 1073.10-14 = CormY add.496  
+## 612.29-31 (DDC 1.283) = 1073.10-14 = CormY add.496 (Mahon 2006: 235-6)  
 Dobrach .i. fliuchaide ut dr. fer muman i ndain in meirlig  
 Ulcha dobrach i ndomnach  
 i luann i máirt mac feirnech  
@@ -647,7 +647,7 @@ sruamach maignech míl meirlech
 > fo bratach senrech sroiglech   
 > sruamach maignech mil meirlech. 
   
-## 613.4-5 (DDC 1.298) = 1073.30-31  
+## 613.4-5 (DDC 1.298) = 1073.30-31 = CormY 488 (Mahon 2006: 240)   
 Duillenn .i. gae, ut dx fer muman:  
 Is dána drech daimine  
 iter ócaib eirechtae  
@@ -751,7 +751,27 @@ tre condold fand ferach
 > amail carr a tabair lamhach,   
 > tria condall fand ferach. 
 
-## 618.34-36 (DDC 1.532) = 1076.21-24  
+## 618.26-27 (DDC 1.525) = 1076.33-35 = O'M1.836 (Mahon 2006: 235)  
+Nát .i. tón. ut dx. fer muman  
+Asber(a?) fiach goblom grág  
+acréim nat námat anocht
+
+> **1076.33-35 (DDC 2.306)**   
+> Nat .i. ton. ut dx. fer mumhuin  
+> Asbeir fiach goblom grac  
+> a creim nat namhat anocht
+
+## 618.28-29 (DDC 1.526) = 1076.36-38 (Mahon 2006: 241)  
+Neman degha .i. uible tened. ut dx fer muman  
+Neamain degha deirge  
+airethait berbtha biad ndéoil  
+
+> **1076.36-38 (DDC 2.307)**  
+> Nemain dega .i. uible tenedh ut dx. fer muman.  
+> nemain degha deirge   
+> airethait berbtha biadh ndeoil  
+  
+## 618.34-36 (DDC 1.532) = 1076.21-24    
 Osmennadh .i. scrútadh o menmain 7 a meabhrugud dogní, ut dx int éicsine i farrad sencáin  
 Ni mogenar fil andíu  
 oc raith colgan ina fíu  
@@ -764,7 +784,8 @@ osment osment a drochéicis.
 > oc raith colgan ina fiu  
 > ari meinci asberar fris  
 > osmentae a drocheicis  
-  
+
+
 ## 619.17-20 (DDC 1.555, unmarked by Binchy) = 1077.16-20  
 Púr .i. glan, oní is purus; unde est  
 Intí carus crabhad ngúr  
