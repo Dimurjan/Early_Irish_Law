@@ -1001,6 +1001,12 @@ omu bruinne com’ aicill
 > leth a urlaine dofill  
 > om' urbruinde com'aicill  
 
+## 777.3-4 (Cáin Fuithirbe) (Breatnach 1986)  
+Dobert tri anin  
+breth ar cach  
+Deich miad a nairm  
+re ria mrath  
+
 ## 800.1-2 ( a verse with commentary on slaying of outsider)  
 Cadh codhnach gan clet or fas  
 screpal co leth a lanbas  
