@@ -206,6 +206,20 @@ ceatardam in ollaman
 > It e sin fri bagha bladh,  
 > Ceithri damha in ollaman.   
 
+## 551.34-35 (= MV ii §114)  
+Deismirecht forsan anamhain:  
+Ni laegh a lighi labar dhamh laighes  
+leath neill um sechnasach saiges  
+
+## 552.29-30 (= Auraic. 2253-4)  
+7 deismirecht fair:  
+Aen for cae, aen for fleigh feith  
+aen fri les do cuingidh  
+
+> Auraicept 2253-4:  
+> aen for coe, oen for fleid fead,  
+> Oen fria leassa : dia cuinged.  
+
 ## **552.32-34** (on the repository of poetry of a fochloc, acc to Breatnach 1987:9 = MV ii §4) :  
 deismirecht for dein miing (rec. midseng):  
 Anmchad osraighi amra  
