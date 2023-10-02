@@ -39,7 +39,7 @@ A: A meic arfeser cend rig for aithiuch.
 B: A meic ara fesar cenn rig for aitheach 7 cenn aithig for righ  
 D: A meic ara feiser cenn rig for aithech  
   
-**O son you should know the head of a king upon a churl \[B: and the head of a churl on a king]  
+**O son you should know the head of a king upon a churl \[B: and the head of a churl on a king]**  
   
 D: Lethfiach la dindis a sodain  
 **Half liability when he makes a denial by oath.**  
