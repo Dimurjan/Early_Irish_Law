@@ -254,11 +254,12 @@ Heir-apparent of a king, why is he so called? Because the whole túath looks for
 ### 42. Ataat trí toichnedai frisná-ruide tocrad ríg, cia beith rí im choire íar ndul triit; toichniud íar n-élud aige dia folud, acht ní rofoíter uilcc dia guin; toichniud íar n-etiuch, ar is mó do·slí oldaas a on, húare do·slí lóg a enech.  
   There are three fastings against which the offended majesty of a king does not blush (?), though the king may be around a cauldron after going through it \[i.e. the fasting]; fasting after an ox escapes from his subsistence, provided that bad persons (?) have not been sent to slaughter it; fasting after refusal of hospitality, for it entails more than his insult, because it causes \[compensation of] his honour-price.     
   
-### 43. Cía as choir 7 as téchtae do dénum biid ríg? Fergniae trí forggab. Cateat sidi? Fer for·\[r]orgaib forggab fora chomlonn co·tregda in fer tria scíath; fer gaibes fer beogabáil ⁊ arid·ngaib i roí; fer benas dam óenbéimmim nád·fuidlea; fer for·gaib cimbid cen aurlúd, fer for·gaib éclann ar bélaib slúaig co·tuit di óenforggaub. 
-  Who is proper and appropriate for making food for a king? A warrior of three thrusts. What are these? A man who can make a thrust upon his opponent so that he transfixes the man through his shield; a man who    
+### 43. Cía as choir 7 as téchtae do dénum biid ríg? Fergniae trí forggab. Cateat sidi? Fer fororgaib forggab fora chomlonn co·tregda in fer tria scíath; fer gaibes fer beogabáil ⁊ arid·ngaib i roí; fer benas dam óenbéimmim nád·fuidlea; fer for·gaib cimbid cen aurlúd, fer for·gaib éclann ar bélaib slúaig co·tuit di óenforggaub. 
+  Who is proper and appropriate for making food for a king? A warrior of three thrusts. What are these? A man who can make a thrust upon his opponent so that he transfixes the man through his shield; a man who captures a man alive and holds him fast in battle; a man who strikes down a ox with one strike and leaves nothing over to be done; a man who thrusts at a captive without \[the latter] escaping; a man who thrusts at a warrior in the front of a host so that he falls from that single thrust.   
 
-### 44. Ataat danó trí aurrach nád-accladat ríg  
-     
+### 44. Ataat danó trí aurrach nád-accladat ríg: errech ar thúaith asid·luí oco n-indriud; errech in tan mbís rí anechtair leis inna thúaith mani·ró a dúne; errech di sescslabrai i ndíthrub íar tuidecht tar crích. Ad·gainethar húad do chách besa chethrae in dá n-errech ndédenach, nád·aithgainethar a toísech acht mad indred n-indligthech.  
+  Moreover, there are three forced requisitions which do not inculpate a king: a requisition on a kingdom who absconds him while he invades them (?);
+   
 ### 45. Cate córus dúne ríg  
      
 ### 46. Co sernar tech ríg?  
