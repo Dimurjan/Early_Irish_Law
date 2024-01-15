@@ -216,11 +216,12 @@ Heir-apparent of a king, why is he so called? Because the whole túath looks for
 ### 43. Cía as choir 7 as téchtae do dénum biid ríg? Fergniae trí forggab. Cateat sidi? Fer fororgaib forggab fora chomlonn co·tregda in fer tria scíath; fer gaibes fer beogabáil ⁊ arid·ngaib i roí; fer benas dam óenbéimmim nád·fuidlea; fer for·gaib cimbid cen aurlúd, fer for·gaib éclann ar bélaib slúaig co·tuit di óenforggaub. 
   Who is proper and appropriate for making food for a king? A warrior of three thrusts. What are these? A man who can make a thrust upon his opponent so that he transfixes the man through his shield; a man who captures a man alive and holds him fast in battle; a man who strikes down a ox with one strike and leaves nothing over to be done; a man who thrusts at a captive without \[the latter] escaping; a man who thrusts at a warrior in the front of a host so that he falls from that single thrust.   
 
-### 44. Ataat danó trí aurrach nád-accladat ríg: errech ar thúaith asid·luí oco n-indriud; errech in tan mbís rí anechtair leis inna thúaith mani·ró a dúne; errech di sescslabrai i ndíthrub íar tuidecht tar crích. Ad·gainethar húad do chách besa chethrae in dá n-errech ndédenach, nád·aithgainethar a toísech acht mad indred n-indligthech.  
-  Moreover, there are three forced requisitions which do not inculpate a king: a requisition on a kingdom who absconds him while he invades them (?);
+### 44. Ataat danó trí aurrach nád-accladat ríg: errech ar thúaith asid·luí oco n-indriud; errech in tan mbís rí anechtair leis ina thúaith mani·ró a dúne; errech di sescslabrai i ndíthrub íar tuidecht tar crích. Ad·gainethar húad do chách besa chethrae in dá n-errech ndédenach, nád·aithgainethar a toísech acht mad indred n-indligthech.  
+  Moreover, there are three forced requisitions which do not inculpate a king: a requisition on a kingdom who absconds him while he invades them (?); a requisition when a king from outside is with him in his kingdom unless he shall reach his fort; a requisition of dry-stock in a waste land after \[his] coming from across the border. Everything \[taken as] food tribute of livestock of the latter two types of requisition is restored by him, the first type is not restored unless it be an illegal invasion.  
    
 ### 45. Cate córus dúne ríg  
-     
+  What is the arrangement of a king's fort who is in residence permanently in face of his kingdom? A full 27 feet is the size of his fort on each side, 7 feet is the thickness of its groundwork (?); moreover 12 feet is its depth. It is there that the king is when the servile labours surround him. What is the servile labour? 12 feet is the width of its edge and its depth and its length towards the fort; 30 feet is its length from outside. \[There should be] clerics to say prayers for his house: a cartload of wattle sticks and a cartload of rushes for every man. If the ruler has taken the tonsure, he is not entitled to build his fort but his house only; 37 feet is his house, 12 couch compartments in a royal house.  
+  
 ### 46. Co sernar tech ríg?  
      
 ### 47. Rí túaithe dib feraib deacc  
