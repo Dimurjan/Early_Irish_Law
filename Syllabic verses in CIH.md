@@ -1346,7 +1346,7 @@ tall naidm 7 aitiri
 > Breithemh, fiadha, feidm co se  
 > Tall naidm 7 aitire  
   
-## 1478.28-29 (O’Dav) = 1512.23-24  
+## 1478.28-29 (O’Dav) = 1512.23-24 = DDC 1.73, 2.14 = O'M 1.180, 3.183  
 Blusair .i. nuall:  
 Uisce sleibe nim sasaid  
 Coibchi co ngeire ngnusa  
