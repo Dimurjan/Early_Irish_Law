@@ -352,7 +352,7 @@ soill loimm im is arán
 > berad th'enach a ben ban  
 > 7 indisfed dom eaan  
   
-## **555.37-38** (not marked by Binchy) = 650.29-31 = 1535.32-34 = 2321.30-31 (MV ii §132)  
+## **555.37-38** (not marked by Binchy, McCone 1989 FS Carney p.130) = 650.29-31 = 1535.32-34 = 2321.30-31 (MV ii §132)  
 deismirecht arin tuaiscleimnech tamain:  
 Taili in bairghin tuc in mbairgin  
 7 blodh don bloinic moir  
