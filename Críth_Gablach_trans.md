@@ -11,7 +11,7 @@ Therefore, a new translation is provided here on resulted from my own study and 
      
 ### 1 Cid ara·n-eperr Críth Gablach? Ní hansae: arindí crenas in fer túaithe dia dagfholtaib hi túaith co n-árimther ina grád téchtu i·mbí i túaith; nó ara lín di gablaib i·fodlaiter grád túaithe. cair: cis lir fodlai for suidib? a .vii.  
 
-Why is CG so called? Not difficult: because the man of a túath purchases by his good considerations in a túath, so that he would be recognised in his proper grade in which he always is in a túath; or because of the \[lit. their] number of the branches into which grades of a túath are divided. Question: how many divisions on these? Seven.  
+Why is CG so called? Not difficult: because the man of a túath purchases for his good considerations in a túath, so that he would be recognised in his proper grade in which he always is in a túath; or because of the \[lit. their] number of the branches into which grades of a túath are divided. Question: how many divisions on these? Seven.  
      
 ### 2 Cid asa·fordailtea grád túaithe? A aurlunn grád n-ecalsa; ar nach grád bís i n-eclais, is coir cia beith a aurlann i túaith, dég ḟortaig nó díthig nó ḟíadnaisi nó brithemnachtae ó chách di alailiu.   
      
